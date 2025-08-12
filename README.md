@@ -1,5 +1,6 @@
 # Keylogger-Educational-
 ⚠ Disclaimer
+
 This project is intended solely for ethical and educational purposes.
 It is designed to demonstrate how keylogging works in Python, helping students and security enthusiasts understand potential cybersecurity risks.
 Do not use this tool on any device you do not own or without explicit written consent from the owner.
